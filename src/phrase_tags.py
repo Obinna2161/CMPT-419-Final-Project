@@ -2,7 +2,7 @@
 
 import re
 
-# --- Spatial vocab ---
+# Spatial vocab
 
 # Single-word spatial tokens - will still be tagged independently
 SPATIAL_WORDS = {
@@ -61,7 +61,7 @@ SPATIAL_PATTERNS = [
     
 ]
 
-# --- Attribute vocab ---
+# Attribute vocab
 
 COLOR_WORDS = {
     "red", "blue", "green", "yellow",
