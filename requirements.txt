@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+datasets
+pillow
+scikit-learn
+opendataval
+pandas
+matplotlib
